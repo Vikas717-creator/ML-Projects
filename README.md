@@ -35,7 +35,7 @@ A machine learning system to predict fraudulent credit card transactions using v
 ### ⚙️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/Vikas717-creator/fraud-and-recommendation-system.git
+git clone https://github.com/Vikas717-creator/
 
 css
 Copy
