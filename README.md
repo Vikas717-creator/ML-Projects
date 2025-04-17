@@ -78,23 +78,14 @@ A Flask-based web app that offers **personalized movie recommendations** using *
 1. Navigate to the movie recommendation project:
 cd fraud-and-recommendation-system/movie_recommender
 
-markdown
-Copy
-Edit
 
 2. Install dependencies:
 pip install -r requirements.txt
 
-markdown
-Copy
-Edit
 
 3. Launch the Flask app:
 python app.py
 
-yaml
-Copy
-Edit
 
 4. Open your browser and go to: `http://127.0.0.1:5000`
 
