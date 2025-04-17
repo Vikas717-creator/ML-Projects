@@ -37,23 +37,12 @@ A machine learning system to predict fraudulent credit card transactions using v
 1. Clone the repository:
 git clone https://github.com/Vikas717-creator/
 
-css
-Copy
-Edit
 
 2. Navigate to the fraud detection project:
 cd fraud-and-recommendation-system/credit_card_fraud
 
-markdown
-Copy
-Edit
-
 3. Install required packages:
 pip install -r requirements.txt
-
-markdown
-Copy
-Edit
 
 4. Run the app:
 
